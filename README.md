@@ -21,6 +21,10 @@
 
 
  </div>
+
+ <p align="center">
+  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+</p>
  
 <div align="center"> 
   <a href="mailto:elmokhtariyahya2001@gmail.com">
