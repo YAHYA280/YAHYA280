@@ -61,6 +61,18 @@
 </div>
 
 <br/><br/>
+
+
+<details open>
+ <summary><h3>🏆 GitHub Trophies</h3></summary>
+
+<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=yahya280&column=8&theme=gruvbox&no-frame=true"/>
+
+---
+
+</details>
+
+<details open>
 <!--
 <hr/>
 
