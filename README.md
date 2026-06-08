@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&color=58A6FF&lines=Building+things+for+the+web+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+Spring;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&color=58A6FF&lines=Building+things+for+the+web+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+Spring;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- ===================== PROFILE VIEWS + SOCIALS ===================== -->
@@ -37,9 +37,6 @@ const yahya: SoftwareEngineer = {
 ```
 
 <br/>
-
-<!-- ===================== DIVIDER ===================== -->
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="divider" onerror="this.style.display='none'" />
 
 <!-- ===================== TECH STACK ===================== -->
 <h2 align="center">🧰 My Tech Arsenal</h2>
