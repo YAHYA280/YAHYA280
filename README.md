@@ -1,89 +1,114 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YAHYA280.YAHYA280" />
+<!-- ===================== ANIMATED HEADER ===================== -->
+<a href="https://github.com/YAHYA280">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yahya%20Elmokhtari&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descAlignY=58&descSize=18" alt="header" />
+</a>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Elmokhtari+Yahya!;" />
-</h1>
-
-<h3 align="center">A passionate software Engineer from Morocco 🇲🇦</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working as **a Freelancer**
- 
- 🌱 I’m currently learning **Next Js, Tailwind, Cloud, AWS, Node Js**
-
-💬 Ask me about **Next.js, React, Firebase... or anything [here](https://github.com/YAHYA280/YAHYA280/issues)**
-
-⚡ Fun fact **The iconic dinosaur roars in Jurassic Park were created using tortoise mating sounds**
-
-
-
- </div>
-
- <p align="center">
-  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+<!-- ===================== TYPING SUBTITLE ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&color=58A6FF&lines=Building+things+for+the+web+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+Spring;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </p>
- 
-<div align="center"> 
-  <a href="mailto:elmokhtariyahya2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/yahya-elmokhtari-ab1581204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
- <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> --> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vscodium" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,nextjs,spring" /><br>
-</div>
+<!-- ===================== PROFILE VIEWS + SOCIALS ===================== -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YAHYA280.YAHYA280&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
+  &nbsp;
+  <a href="mailto:elmokhtariyahya2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/yahya-elmokhtari-ab1581204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/YAHYA280" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <br/>
-<hr/>
 
+<!-- ===================== WHOAMI ( DEVELOPER AS CODE ) ===================== -->
+<h2 align="center">👨‍💻 whoami</h2>
 
+```typescript
+const yahya: SoftwareEngineer = {
+  location:   "Morocco 🇲🇦",
+  role:       "Freelancer",
+  code:       ["TypeScript", "JavaScript", "C"],
+  askMeAbout: ["Next.js", "React", "Firebase"],
+  learning:   ["Next.js", "Tailwind", "Cloud / AWS", "Node.js"],
+  motto:      "Always learning, always shipping.",
 
-<hr/>
+  funFact: () =>
+    "The Jurassic Park dinosaur roars were made from tortoise mating sounds 🦖",
+};
+```
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-   
- <img width=465 src="https://github-readme-stats.vercel.app/api?username=YAHYA280&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
- <br/>
- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAHYA280&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-        
-</div>
+<br/>
 
-<br/><br/>
+<!-- ===================== DIVIDER ===================== -->
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="divider" onerror="this.style.display='none'" />
 
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="center">🧰 My Tech Arsenal</h2>
 
-<details open>
- <summary><h3>🏆 GitHub Trophies</h3></summary>
+<table align="center">
+  <tr>
+    <td align="center"><b>💬 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=typescript,javascript,c,html,css&perline=8" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚛️ Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,bootstrap,mui&perline=8" alt="frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Data & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase,mongodb,aws&perline=8" alt="data and cloud" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,figma&perline=8" alt="tools" /></td>
+  </tr>
+</table>
 
-<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=yahya280&column=8&theme=gruvbox&no-frame=true"/>
+<br/>
 
----
+<!-- ===================== STATS ===================== -->
+<h2 align="center">📊 By the Numbers</h2>
 
-</details>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YAHYA280&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YAHYA280&theme=react&border_radius=12&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
+</p>
 
-<details open>
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YAHYA280&theme=react-dark&hide_border=true&radius=12&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff" alt="activity graph" />
+</p>
+
+<br/>
+
+<!-- ===================== DEV QUOTE ===================== -->
+<h2 align="center">💭 Dev Quote of the Day</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+<br/>
+
+<!-- ===================== TROPHIES ===================== -->
+<h2 align="center">🏆 Trophy Cabinet</h2>
+
+<p align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=YAHYA280&column=7&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<br/>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 <!--
-<hr/>
+  Animated contribution snake.
+  Requires the GitHub Action in .github/workflows/snake.yml (see setup notes).
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YAHYA280/YAHYA280/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YAHYA280/YAHYA280/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YAHYA280/YAHYA280/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>-->
+<!-- ===================== ANIMATED FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontColor=ffffff&fontSize=22&animation=twinkling&fontAlignY=70" alt="footer" />
