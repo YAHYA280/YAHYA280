@@ -75,6 +75,24 @@ const yahya: SoftwareEngineer = {
 
 <br/>
 
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=YAHYA280&theme=react-dark&hide_border=true&radius=12&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff" alt="activity graph" />
+</p>
+
+<br/>
+
+<!-- ===================== TROPHIES ===================== -->
+<h2 align="center">🏆 Trophy Cabinet</h2>
+
+<p align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=YAHYA280&column=7&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+</p>
+
+<br/>
+
 <!-- ===================== CONTRIBUTION SNAKE (white version) ===================== -->
 <!--
   Animated contribution snake (light/white).
