@@ -28,3 +28,13 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          # commit timeline / recent activity feed
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          # total lines of code added/removed across commits
+          plugin_lines: yes
+          # follower / star / repo totals as a notable panel
+          plugin_notable: yes
+          plugin_notable_repositories: yes
